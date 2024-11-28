@@ -1,0 +1,39 @@
+{
+    "testResults": [
+      {
+        "id": "b47f",
+        "nickname": "과제하나도모르겠다",
+        "userId": "dontknow42",
+        "mbti": "ISFP",
+        "date": "2024. 11. 26. 오후 7:45:32"
+      },
+      {
+        "id": "33af",
+        "nickname": "은영",
+        "userId": "een0422",
+        "mbti": "INFJ",
+        "date": "2024. 11. 27. 오전 1:31:35"
+      },
+      {
+        "id": "c65f",
+        "nickname": "독불장군모모",
+        "userId": "momo0510",
+        "mbti": "ESTJ",
+        "date": "2024. 11. 27. 오후 7:19:12"
+      },
+      {
+        "id": "4345",
+        "nickname": "패셔니스타달팽이",
+        "userId": "sna888",
+        "mbti": "ESFP",
+        "date": "2024. 11. 28. 오후 10:19:12"
+      },
+      {
+        "id": "9236",
+        "nickname": "춥고배고파",
+        "userId": "een05",
+        "mbti": "INTP",
+        "date": "2024. 11. 28. 오전 1:43:46"
+      }
+    ]
+  }
